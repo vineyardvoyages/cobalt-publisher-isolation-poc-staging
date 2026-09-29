@@ -1,0 +1,5 @@
+COBALT_GATE_A_WRITER_PROOF_V1
+repository=vineyardvoyages/cobalt-publisher-isolation-poc-staging
+base=7b90263a30c1ef8b1fb23e31d42e174b519cb4a7
+provider=POC-A-PROVIDER-R2
+mcp=none
